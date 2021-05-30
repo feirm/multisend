@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:feirm/multisend.git",
   "author": "Jack Coble <jack@coble.uk>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.1.0"
+  }
 }
